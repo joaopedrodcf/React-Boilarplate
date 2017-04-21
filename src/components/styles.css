@@ -1,0 +1,20 @@
+.app {
+  background: grey;
+  height: 100%;
+  margin: 0px;
+}
+
+.navbar {
+  color: white;
+  background: green;
+  height: 200px;
+  witdth: 100%;
+}
+
+.header {
+  color: white;
+  background: green;
+  height: 100px;
+  width: 100%;
+  text-align: center;
+}
